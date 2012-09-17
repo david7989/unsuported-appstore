@@ -1,0 +1,2 @@
+unsuported-appstore
+===================
